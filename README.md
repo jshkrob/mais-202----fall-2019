@@ -1,3 +1,6 @@
+# Runing Script
+The file is an .ipynb file, so run using a Jupyter Notebook on Anaconda
+
 # MAIS 202 Fall 2019 - Application Coding Challenge
 
 [Application](https://docs.google.com/forms/d/e/1FAIpQLSffJrPvMK_wT8g6ALzwEr4jQAn4Sm6a-ZAY8oHmD6_5XFKmCA/viewform)
